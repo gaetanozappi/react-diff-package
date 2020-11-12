@@ -9,6 +9,6 @@
 
 [Demo](https://gaetanozappi.github.io/react-diff-package)
 
-<img align="left" src="https://raw.githubusercontent.com/gaetanozappi/react-diff-package/main/screen/diff_select.png" width="400px" heigth="200px" />
-<img src="https://raw.githubusercontent.com/gaetanozappi/react-diff-package/main/screen/diff_split.png" width="400px" heigth="200px" />
-<img src="https://raw.githubusercontent.com/gaetanozappi/react-diff-package/main/screen/diff_unified.png" width="400px" heigth="200px" />
+<img src="https://raw.githubusercontent.com/gaetanozappi/react-diff-package/main/screen/diff_select.png" width="800px" heigth="600px" />
+<img src="https://raw.githubusercontent.com/gaetanozappi/react-diff-package/main/screen/diff_split.png" width="800px" heigth="600px" />
+<img src="https://raw.githubusercontent.com/gaetanozappi/react-diff-package/main/screen/diff_unified.png" width="800px" heigth="600px" />
