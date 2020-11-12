@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://gaetanozappi.github.io/react-diff-package/</loc>
+        <xhtml:link
+            rel="alternate"
+            hreflang="en"
+            href="http://gaetanozappi.github.io/react-diff-package/en/"
+        />
+        <xhtml:link
+            rel="alternate"
+            hreflang="it"
+            href="https://gaetanozappi.github.io/react-diff-package/"
+        />
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://gaetanozappi.github.io/react-diff-package/en/</loc>
+        <xhtml:link
+            rel="alternate"
+            hreflang="it"
+            href="https://gaetanozappi.github.io/react-diff-package/"
+        />
+        <xhtml:link
+            rel="alternate"
+            hreflang="en"
+            href="https://gaetanozappi.github.io/react-diff-package/en/"
+        />
+        <priority>1.0</priority>
+    </url>
+</urlset>
